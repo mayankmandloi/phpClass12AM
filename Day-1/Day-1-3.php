@@ -11,7 +11,25 @@
     <p>we can use //</p>
     <p>we can use #</p>
     <p>we can use /* */</p>
-    <p>php is whitespace insensitive</p>
+    <p>php
+    
+    
+    
+    
+    is
+    
+    
+    
+    
+    whitespace
+    
+    
+    
+    
+    
+    
+    
+    insensitive</p>
     <p>php is case sensitive</p>
 
     <?php

@@ -7,6 +7,7 @@
     <title>Web Bhumi</title>
 </head>
 <body>
+<pre>
 PHP has a total of eight data types which we use to construct our variables −
 
     Integers − are whole numbers, without a decimal point, like 4195.
@@ -24,6 +25,6 @@ PHP has a total of eight data types which we use to construct our variables −
     Objects − are instances of programmer-defined classes, which can package up both other kinds of values and functions that are specific to the class.
 
     Resources − are special variables that hold references to resources external to PHP (such as database connections).
-
+</pre>
 </body>
 </html>
