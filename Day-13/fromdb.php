@@ -16,6 +16,15 @@
 
         $con=mysqli_connect($servername,$dbusername,$dbpassword,$dbname);
 
+
+
+
+
+
+
+
+
+        
         if($con)
         {
             $sql_query="SELECT * FROM `test` ";

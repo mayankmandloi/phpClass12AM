@@ -1,0 +1,38 @@
+<table class="">
+  <tbody><tr>
+    <th style="width:10%">Modes</th>
+    <th style="width:90%">Description</th>
+  </tr>
+  <tr>
+    <td>r</td>
+    <td><strong>Open a file for read only</strong>. File pointer starts at the beginning of the file</td>
+  </tr>
+    <tr>
+    <td>w</td>
+    <td><strong>Open a file for write only</strong>. Erases the contents of the file or creates a new file if it doesn't exist. File pointer starts at the beginning of the file</td>
+    </tr>
+  <tr>
+    <td>a</td>
+    <td><strong>Open a file for write only</strong>. The existing data in file is preserved. File pointer starts at the end of the file. Creates a new file if the file doesn't exist</td>
+    </tr>
+  <tr>
+    <td>x</td>
+    <td><strong>Creates a new file for write only</strong>. Returns FALSE and an error if file already exists</td>
+    </tr>
+  <tr>
+    <td>r+</td>
+    <td><strong>Open a file for read/write</strong>. File pointer starts at the beginning of the file</td>
+  </tr>
+  <tr>
+    <td>w+</td>
+    <td><strong>Open a file for read/write</strong>. Erases the contents of the file or creates a new file if it doesn't exist. File pointer starts at the beginning of the file</td>
+  </tr>
+  <tr>
+    <td>a+</td>
+    <td><strong>Open a file for read/write</strong>. The existing data in file is preserved. File pointer starts at the end of the file. Creates a new file if the file doesn't exist</td>
+  </tr>
+  <tr>
+    <td>x+</td>
+    <td><strong>Creates a new file for read/write</strong>. Returns FALSE and an error if file already exists</td>
+  </tr>
+</tbody></table>
